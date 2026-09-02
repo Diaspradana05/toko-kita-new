@@ -28,4 +28,4 @@ Project ini dibuat sebagai project frontend untuk pembelajaran dan portofolio. D
 
 Live Demo
 
-Tambahkan link demo setelah project di-deploy.
+Link Demo : https://toko-kita-new.netlify.app
